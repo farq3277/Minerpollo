@@ -1,0 +1,2 @@
+# Minerpollo
+mineria
